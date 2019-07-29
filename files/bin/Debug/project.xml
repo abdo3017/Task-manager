@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="proejcts">
+  <project>
+    <Name>task manger</Name>
+    <Status>unfinished</Status>
+    <Id>1</Id>
+    <Tasks>
+      <Task>
+        <TaskName>Gui</TaskName>
+        <employeeUserName>nada</employeeUserName>
+        <Description>Do Gui</Description>
+        <Comment>dsd</Comment>
+        <Status>Un Available</Status>
+        <achievedFile>C:\Users\ghazi\Downloads\7b959776ac-input-7b95730.txt.clean (2).txt</achievedFile>
+        <History>5/16/2019 12:57:51 AM</History>
+        <id>1</id>
+        <farward>false</farward>
+      </Task>
+      <Task>
+        <TaskName>Tasks page</TaskName>
+        <employeeUserName>Abdalah</employeeUserName>
+        <Description>Do task page</Description>
+        <Comment>noooo Comment</Comment>
+        <Status>Available</Status>
+        <achievedFile>
+        </achievedFile>
+        <History>5/16/2019 12:57:51 AM</History>
+        <id>1</id>
+        <farward>false</farward>
+      </Task>
+      <Task>
+        <TaskName>Home Page</TaskName>
+        <employeeUserName>Aya</employeeUserName>
+        <Description>Do home page</Description>
+        <Comment>No Comment</Comment>
+        <Status>Available</Status>
+        <achievedFile>C:\Users\ghazi\Downloads\7b959776ac-input-7b95730.txt.clean (1).txt</achievedFile>
+        <History>5/16/2019 12:57:51 AM</History>
+        <id>1</id>
+        <farward>false</farward>
+      </Task>
+      <Task>
+        <TaskName>ui</TaskName>
+        <employeeUserName>yaaa</employeeUserName>
+        <Description>jasdn</Description>
+        <Comment>kjasbdasn</Comment>
+        <Status>Available</Status>
+        <achievedFile>
+        </achievedFile>
+        <History>5/16/2019 10:59:16 AM</History>
+        <id>1</id>
+        <farward>false</farward>
+      </Task>
+    </Tasks>
+  </project>
+</Table>
